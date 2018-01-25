@@ -1,6 +1,6 @@
 import re,string
 import pandas as pd
-with open('/Users/siddharthnayak/Downloads/sherlock.txt','r') as f:
+with open('~/sherlock.txt','r') as f:
   contents=f.read()
   contents=contents.translate(None,string.punctuation).lower()#lower all the characters
   words=contents.split()
