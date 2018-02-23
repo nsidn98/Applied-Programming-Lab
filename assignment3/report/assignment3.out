@@ -1,0 +1,24 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Import libraries}{}% 2
+\BOOKMARK [1][-]{section.3}{Definition of functions}{}% 3
+\BOOKMARK [1][-]{section.4}{Plot of e\136x}{}% 4
+\BOOKMARK [1][-]{section.5}{Plot of cos\(cos\(x\)\)}{}% 5
+\BOOKMARK [1][-]{section.6}{Definition of a function for getting the a\1370 coefficient}{}% 6
+\BOOKMARK [1][-]{section.7}{Definition of a function for getting the a\137n coefficients}{}% 7
+\BOOKMARK [1][-]{section.8}{Definition of a function for getting the b\137n coefficients}{}% 8
+\BOOKMARK [1][-]{section.9}{Getting the vector containing the coefficients}{}% 9
+\BOOKMARK [1][-]{section.10}{Create an array for n}{}% 10
+\BOOKMARK [1][-]{section.11}{Semilog plot of the coefficients of cos\(cos\(x\)\)}{}% 11
+\BOOKMARK [1][-]{section.12}{Loglog plot of the coefficients of cos\(cos\(x\)\)}{}% 12
+\BOOKMARK [1][-]{section.13}{Semilog plot of the coefficients of e\136x}{}% 13
+\BOOKMARK [1][-]{section.14}{Loglog plot of the coefficients of e\136x}{}% 14
+\BOOKMARK [1][-]{section.15}{Least Squares Method}{}% 15
+\BOOKMARK [1][-]{section.16}{Plot of coefficients compared with that obtained from least squares method for e\136x}{}% 16
+\BOOKMARK [1][-]{section.17}{Plot of coefficients compared with that obtained from least squares method for cos\(cos\(x\)\)}{}% 17
+\BOOKMARK [1][-]{section.18}{Error in the coefficients obtained by least squares method}{}% 18
+\BOOKMARK [1][-]{section.19}{Plot of error vs n for e\136x}{}% 19
+\BOOKMARK [1][-]{section.20}{Plot of error vs n for cos\(cos\(x\)\)}{}% 20
+\BOOKMARK [1][-]{section.21}{Reconstruction of the original signal from the fourier coefficients}{}% 21
+\BOOKMARK [1][-]{section.22}{Plot of the signal reconstructed for e\136x}{}% 22
+\BOOKMARK [1][-]{section.23}{Plot of the signal reconstructed for cos\(cos\(x\)\)}{}% 23
+\BOOKMARK [1][-]{section.24}{Conclusion}{}% 24
