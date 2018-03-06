@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Least Squares Method}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Derivation of Least Squares Method using linear algebra: }{section.2}% 3
+\BOOKMARK [1][-]{section.3}{Importing Libraries}{}% 4
+\BOOKMARK [1][-]{section.4}{Define a function for getting Acos\(x\)+Bsin\(x\)\134approx J\137v\(x\)}{}% 5
+\BOOKMARK [1][-]{section.5}{Function for calculating the value of v from \134phi}{}% 6
+\BOOKMARK [1][-]{section.6}{Define a function for getting \134frac\173Acos\(x\)\175\173\134sqrt\173x\175\175+\134frac\173Bsin\(x\)\175\173\134sqrt\173x\175\175\134approx J\137v\(x\)}{}% 7
+\BOOKMARK [2][-]{subsection.6.1}{Plot of function obtained by method 1}{section.6}% 8
+\BOOKMARK [2][-]{subsection.6.2}{Plot of function obtained by method 2}{section.6}% 9
+\BOOKMARK [2][-]{subsection.6.3}{Plot of v vs x\1370}{section.6}% 10
+\BOOKMARK [1][-]{section.7}{Plot of v vs x\1370 with noise \(\134epsilon = 0.01\)}{}% 11
+\BOOKMARK [1][-]{section.8}{Plot v vs x\1370 for different values of noise}{}% 12
+\BOOKMARK [1][-]{section.9}{Plotting with different number of measurements \(with \134epsilon=0.01\)}{}% 13
+\BOOKMARK [1][-]{section.10}{Discussions and Conclusions}{}% 14
