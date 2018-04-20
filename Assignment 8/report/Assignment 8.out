@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Import Libraries}{}% 2
+\BOOKMARK [1][-]{section.3}{Lowpass filter}{}% 3
+\BOOKMARK [1][-]{section.4}{Plot of transfer function of lowpass filter}{}% 4
+\BOOKMARK [1][-]{section.5}{Sinusoidal input voltage}{}% 5
+\BOOKMARK [1][-]{section.6}{Highpass Filter}{}% 6
+\BOOKMARK [1][-]{section.7}{Obtaining the transfer function and extracting the coefficients from the Sympy polynomial.}{}% 7
+\BOOKMARK [1][-]{section.8}{Plot the magnitude response}{}% 8
+\BOOKMARK [1][-]{section.9}{Obtaining the step response of the circuit}{}% 9
+\BOOKMARK [1][-]{section.10}{Decaying sinusoidal inputs to the high pass filter}{}% 10
+\BOOKMARK [1][-]{section.11}{Conclusions}{}% 11
